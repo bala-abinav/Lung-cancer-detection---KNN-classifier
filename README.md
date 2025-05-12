@@ -37,7 +37,7 @@ The K-Nearest Neighbors (KNN) algorithm was chosen due to its simplicity and sup
 - **Accuracy**: 89.29%
 - The model showed high reliability in identifying negative lung cancer cases, with some scope for improving positive case detection.
 - Confusion matrix and classification reports were generated for evaluation.
-- <br>
+<br>
 - ![image](https://github.com/user-attachments/assets/ab2dec61-60bd-4ea5-a6d3-024b8bb5c058)
 
 
